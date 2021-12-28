@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bmhoang
+- 👀 I’m interested in blockchain
+- 🌱 I’m currently learning sodility
+- 💞️ I’m looking to collaborate on defi
+- 📫 How to reach me: bmhoang@outlook.com
